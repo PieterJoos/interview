@@ -1,0 +1,2 @@
+Else is a block of code that will only be executed when the conditions are met.
+Finally is a block of code that will always be executed.
